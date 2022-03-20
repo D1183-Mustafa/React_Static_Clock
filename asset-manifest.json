@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Static_Clock/static/css/main.f44f75f1.css",
+    "main.js": "/React_Static_Clock/static/js/main.d1a7d8c2.js",
+    "index.html": "/React_Static_Clock/index.html",
+    "main.f44f75f1.css.map": "/React_Static_Clock/static/css/main.f44f75f1.css.map",
+    "main.d1a7d8c2.js.map": "/React_Static_Clock/static/js/main.d1a7d8c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f44f75f1.css",
+    "static/js/main.d1a7d8c2.js"
+  ]
+}
